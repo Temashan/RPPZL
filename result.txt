@@ -1,0 +1,23 @@
+city Sunnyvale
+region  CA
+woeid 2502265
+country United States
+lat 37.371609
+long -122.038254
+timezone_id America/Los_Angeles
+chill 71
+direction 0
+speed 13
+humidity 46
+visibility 10
+pressure 29.95
+sunrise 6:49 am
+sunset 7:18 pm
+code 32
+text Sunny
+temperature 73
+pubDate 1663166400
+day Sat
+date 1663992000
+low 62
+high 87
