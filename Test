@@ -1,0 +1,3 @@
+<?php
+    require "Users.php";
+    var_dump(Users::getList());
